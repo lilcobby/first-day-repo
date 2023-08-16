@@ -1,2 +1,2 @@
 # first-day-repo
-a practice repository for week coursework
+a practice repository for week 1 coursework
